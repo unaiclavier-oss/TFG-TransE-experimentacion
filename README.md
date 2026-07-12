@@ -14,7 +14,7 @@ TransE, demostradas en la memoria:
 
 ## Contenido
 
-- `dataset/kg_geografia_historia_v2.csv` — grafo de conocimiento sintético y
+- `kg_geografia_historia.csv` — grafo de conocimiento sintético y
   procesado (153 entidades, 15 relaciones, 613 tripletes) sobre geografía e
   historia europea, diseñado a propósito para contener relaciones simétricas,
   1-a-N, compuestas e inversas.
